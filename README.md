@@ -7,7 +7,7 @@ Um desafio com foco em desenvolver uma aplicação que realize um CRUD para test
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="https://weslleymendes.com.br/img/logo.png">
-    <title>Noções em NodeJS</title>
+   <br>
     <link rel="canonical" href="https://weslleymendes.com.br/img/logo.png">
   </head>
   <body>
