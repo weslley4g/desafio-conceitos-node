@@ -12,7 +12,7 @@ Um desafio com foco em desenvolver uma aplicação que realize um CRUD para test
   </head>
   <body>
   <h1> Noções em NodeJS </h1>
-  <img src="https://pluspng.com/img-png/nodejs-logo-png--375.png" alt="NodeJS face" height="90" width="90">
+  <img src="https://pluspng.com/img-png/nodejs-logo-png--375.png" alt="NodeJS" >
   <h3>Neste desafio: </h3>
   <ul>
   <li>Aprendi a trabalhar melhor com o <b>request</b> e o <b>response</b></li>
